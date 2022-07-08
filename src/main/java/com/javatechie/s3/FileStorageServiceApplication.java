@@ -10,4 +10,5 @@ public class FileStorageServiceApplication {
         SpringApplication.run(FileStorageServiceApplication.class, args);
     }
 
+
 }
